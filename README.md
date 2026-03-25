@@ -1,3 +1,11 @@
+--- 
+image: https://raw.githubusercontent.com/iamGodofall/edge-run/main/ABSuite%20image.jpeg
+twitter:image: https://raw.githubusercontent.com/iamGodofall/edge-run/main/ABSuite%20image.jpeg
+og:image: https://raw.githubusercontent.com/iamGodofall/edge-run/main/ABSuite%20image.jpeg
+---
+
+![ABSuite](ABSuite%20image.jpeg)
+
 # edge-run v0.1.0 - Offline-First Agent Orchestrator
 
 Local-first agent scheduling & runtime. Zero cloud. Runs on your machine only.
