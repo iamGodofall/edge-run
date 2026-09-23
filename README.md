@@ -4,7 +4,7 @@ twitter:image: https://raw.githubusercontent.com/iamGodofall/edge-run/main/ABSui
 og:image: https://raw.githubusercontent.com/iamGodofall/edge-run/main/ABSuite%20image.jpeg
 ---
 
-![ABSuite](ABSuite%20image.jpeg)
+![edge-run](ABSuite%20image.jpeg)
 
 # edge-run v0.1.0 - Offline-First Agent Orchestrator
 
@@ -60,7 +60,7 @@ npm run build  # tsc
 npm run dev    # ts-node src/index.ts
 ```
 
-MIT License. v0.1.0 MVP shipped! 🚀
+MIT License. v0.1.0. This repository contains the current local-first MVP; hardware-specific triggers and production isolation remain implementation boundaries.
 
 ---
 
@@ -68,6 +68,6 @@ MIT License. v0.1.0 MVP shipped! 🚀
 → [capkit](https://github.com/iamGodofall/capkit): Scoped capabilities for agents  
 → [quickbench](https://github.com/iamGodofall/quickbench): Reproducible agent evaluation  
 → [edge-run](https://github.com/iamGodofall/edge-run): Offline-first orchestration  
-→ [connector-starter](https://github.com/iamGodofall/connector-starter): Generate adapters fast *(coming soon)*
+→ [connector-starter](https://github.com/iamGodofall/connector-starter): Generate adapters fast Production adapter generator
 
 *Built for builders who ship. MIT licensed. Local-first by design.*
